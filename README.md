@@ -17,11 +17,11 @@ A fun web application using **HTML, CSS, and JavaScript** that fetches jokes fro
 
 ![Preview Image](preview_image.png)
 
-##🤝 Contributing
+## 🤝 Contributing
 
 Contributions are welcome! 🎉 Feel free to fork the repository and submit a pull request with your improvements.
 
-##📜 License
+## 📜 License
 
 This project is licensed under the MIT License.
 
